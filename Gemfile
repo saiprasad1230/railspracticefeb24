@@ -25,7 +25,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # Use webpack to manage app-like JavaScript modules in Rails
-gem 'webpacker', '~> 5.4', '>= 5.4.4'
+gem 'webpacker', '~> 4.0'
 
 # Integrate SassC-Ruby into Rails.
 gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
